@@ -11,11 +11,11 @@
 
 ## ScreenShots
 
-![pic 1](./screenshots/formvalidation%20-%20Google%20Chrome%2030-11-2022%2012_59_27.png)
-![pic 2](./screenshots/formvalidation%20-%20Google%20Chrome%2030-11-2022%2012_59_55.png)
-![pic 3](./screenshots/formvalidation%20-%20Google%20Chrome%2030-11-2022%2013_00_18.png)
-![pic 4](./screenshots/formvalidation%20-%20Google%20Chrome%2030-11-2022%2013_00_41.png)
-![pic 5](./screenshots/formvalidation%20-%20Google%20Chrome%2030-11-2022%2013_00_57.png)
+![pic 1](./screenshots/pic1.png)
+![pic 2](./screenshots/pic2.png)
+![pic 3](./screenshots/pic3.png)
+![pic 4](./screenshots/pic4.png)
+![pic 5](./screenshots/pic5.png)
 
 ---
 
