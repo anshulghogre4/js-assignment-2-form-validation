@@ -11,11 +11,11 @@
 
 ## ScreenShots
 
-![pic 1](./screenshots/pic1.png)
-![pic 2](./screenshots/pic2.png)
-![pic 3](./screenshots/pic3.png)
-![pic 4](/screenshots/pic4.png)
-![pic 5](./screenshots/pic5.png)
+![pic 1](./pic1.png)
+![pic 2](./pic2.png)
+![pic 3](./pic3.png)
+![pic 4](./pic4.png)
+![pic 5](./pic5.png)
 
 ---
 
